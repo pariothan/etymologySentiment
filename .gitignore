@@ -1,0 +1,8 @@
+# Large dictionary data
+kaikki.org-dictionary-English.jsonl
+
+# Ignore all parquet files
+*.parquet
+
+# Ignore Japanese data folder entirely
+jp/
